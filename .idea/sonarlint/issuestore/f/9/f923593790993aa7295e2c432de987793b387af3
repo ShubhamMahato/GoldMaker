@@ -1,0 +1,117 @@
+
+Z	java:S106q"9Replace this use of System.out or System.err by a logger.(°ÍïÎıÿÿÿÿ8•¡”‡û.
+U
+java:S1854Y"8Remove this useless assignment to local variable "text".(¤­á8Öˆñ†û.
+X
+java:S1141ß"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8 æî‡û.
+Z	java:S106t"9Replace this use of System.out or System.err by a logger.(ŒæÚ½úÿÿÿÿ8±Ñ–‡û.
+X
+java:S1141›"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8—€á‡û.
+V	java:S106ñ"9Replace this use of System.out or System.err by a logger.(©•›ş8ä¥ñ‡û.
+[	java:S106í"9Replace this use of System.out or System.err by a logger.(ìÊúÿÿÿÿ8ä¥ñ‡û.
+D
+java:S1481:"'Remove this unused "in" local variable.(öÇ‘ò8÷¨¾€û.
+X
+java:S1141 "5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Åƒâ‡û.
+X
+java:S1141Ä"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8 æî‡û.
+[	java:S106ê"9Replace this use of System.out or System.err by a logger.(ô‘äÀùÿÿÿÿ8ä¥ñ‡û.
+d
+java:S1128"BRemove this unused import 'org.apache.poi.hwpf.usermodel.Section'.(ºæº¿ıÿÿÿÿ8üø£€û.
+X
+java:S1141º"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8 æî‡û.
+X
+java:S1141–"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8–“à‡û.
+U	java:S106ï"9Replace this use of System.out or System.err by a logger.(¦Êó8ä¥ñ‡û.
+X
+java:S1141Î"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8 æî‡û.
+J
+java:S1612ô",Replace this lambda with a method reference.(÷ø½8Äåñòı.
+~
+java:S3252˜"[Use static access with "javax.swing.ScrollPaneConstants" for "HORIZONTAL_SCROLLBAR_ALWAYS".(ÂÌœ™ıÿÿÿÿ8­ã¦ªú.
+i
+java:S1128"LRemove this unused import 'org.apache.poi.xwpf.extractor.XWPFWordExtractor'.(™Òİì8÷¨¾€û.
+Z	java:S106v"9Replace this use of System.out or System.err by a logger.(†õÈ”ùÿÿÿÿ8±Ñ–‡û.
+X
+java:S1141Œ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÿÎİ‡û.
+X
+java:S1141«"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8 æî‡û.
+K
+java:S22017".The return value of "replaceAll" must be used.(€šæğ8÷¨¾€û.
+Z	java:S106m"9Replace this use of System.out or System.err by a logger.(äœËÇûÿÿÿÿ8 Ë²ÿú.
+Z	java:S106p"9Replace this use of System.out or System.err by a logger.(ç•âÈúÿÿÿÿ8‹ò’‡û.
+U	java:S106w"9Replace this use of System.out or System.err by a logger.(††¡œ8±Ñ–‡û.
+0
+java:S1220""Move this file to a named package.
+‰
+java:S1192>"gDefine a constant instead of duplicating this literal "C:\\Users\\768901\\Downloads\\fff.docx" 4 times.(ƒã“Øûÿÿÿÿ8÷¨¾€û.
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(Ç£±šüÿÿÿÿ8ˆıê†û.
+V	java:S106ë"9Replace this use of System.out or System.err by a logger.(¾éõı8ä¥ñ‡û.
+w
+java:S3252™"YUse static access with "javax.swing.ScrollPaneConstants" for "VERTICAL_SCROLLBAR_ALWAYS".( Î÷™8Äåñòı.
+L
+java:S3740/"/Provide the parametrized type for this generic.(”Ìîò8÷¨¾€û.
+c
+java:S1075f"ARefactor your code to get this URI from a customizable parameter.(ËÀùŒøÿÿÿÿ8÷¨¾€û.
+U	java:S106T"9Replace this use of System.out or System.err by a logger.(ØƒÄ÷8ö…†‡û.
+e
+java:S53617"HReplace this call to "replaceAll()" by a call to the "replace()" method.(€šæğ8÷¨¾€û.
+U	java:S106x"9Replace this use of System.out or System.err by a logger.(ç™ºÈ8±Ñ–‡û.
+X
+java:S1141É"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8 æî‡û.
+X
+java:S1141ú"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8íÃöòı.
+Z
+java:S1128"=Remove this unused import 'org.apache.poi.hwpf.HWPFDocument'.(¾ã«È8üø£€û.
+^
+java:S1075/"ARefactor your code to get this URI from a customizable parameter.(”Ìîò8÷¨¾€û.
+X
+java:S1141‚"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ûâÚ‡û.
+u
+java:S3776"SRefactor this method to reduce its Cognitive Complexity from 151 to the 15 allowed.(¡şÏÖøÿÿÿÿ8÷¨¾€û.
+U	java:S106s"9Replace this use of System.out or System.err by a logger.(ŞªïŞ8±Ñ–‡û.
+X
+java:S1141¦"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8 æî‡û.
+X
+java:S1141‡"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÿ€Ü‡û.
+X
+java:S1141°"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8 æî‡û.
+]
+java:S1128
+"@Remove this unused import 'org.apache.poi.hwpf.usermodel.Range'.(½ìèô8üø£€û.
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8÷¨¾€û.
+f
+java:S1128	"DRemove this unused import 'org.apache.poi.hwpf.usermodel.Paragraph'.(ş¼‚ùÿÿÿÿ8üø£€û.
+V	java:S106î"9Replace this use of System.out or System.err by a logger.(ÿ´íè8ä¥ñ‡û.
+L
+java:S3740/"/Provide the parametrized type for this generic.(”Ìîò8÷¨¾€û.
+X
+java:S1141‘"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÔŒß‡û.
+X
+java:S1141µ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8 æî‡û.
+W
+java:S1141}"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ôñÙ‡û.
+U	java:S106`"9Replace this use of System.out or System.err by a logger.(ù¸ıÕ8÷¨¾€û.
+Z	java:S106o"9Replace this use of System.out or System.err by a logger.(…Á¡›ûÿÿÿÿ8÷¨¾€û.
+[	java:S106ğ"9Replace this use of System.out or System.err by a logger.(È¢Ïäıÿÿÿÿ8ä¥ñ‡û.
+[	java:S106é"9Replace this use of System.out or System.err by a logger.(ğ«ô¸üÿÿÿÿ8ä¥ñ‡û.
+X
+java:S1141Ó"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8 æî‡û.
+V	java:S106ì"9Replace this use of System.out or System.err by a logger.(ªåô8ä¥ñ‡û.
+Z	java:S106u"9Replace this use of System.out or System.err by a logger.(•ÙÑ”üÿÿÿÿ8±Ñ–‡û.
+X
+java:S1141ä"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8 æî‡û.
+X
+java:S1141¿"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8 æî‡û.
+X
+java:S1141Ú"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8 æî‡û.
+d
+java:S1128"GRemove this unused import 'org.apache.poi.hwpf.usermodel.CharacterRun'.(€³Ø“8üø£€û.
+U	java:S106r"9Replace this use of System.out or System.err by a logger.(†áüî8•¡”‡û.
+Z
+java:S3252""=Use static access with "java.awt.Frame" for "MAXIMIZED_BOTH".(˜¸Ì‹8÷¨¾€û.
+U	java:S106n"9Replace this use of System.out or System.err by a logger.(Ôâ™â8¹İ¿ÿú.
+j
+java:S1128"HRemove this unused import 'org.apache.poi.hwpf.extractor.WordExtractor'.(’ã‘„şÿÿÿÿ8¡¾Ë«ú.
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(û…Ò¼ûÿÿÿÿ8÷¨¾€û.
